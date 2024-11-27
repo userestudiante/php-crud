@@ -1,0 +1,6 @@
+projectKey=pageone
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=pageone
+ceTaskId=17087ed1-bd1a-43ea-b141-ca05ef519ea1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=17087ed1-bd1a-43ea-b141-ca05ef519ea1
